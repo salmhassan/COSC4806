@@ -37,7 +37,7 @@ align: center;
 <title> Login </title>
 <body>
 
-	<form action ="localhost" method = "post">
+	<form action ="#" method = "post">
 	Username ID 
 	<input type = "text" name = "username">
 	<br>
